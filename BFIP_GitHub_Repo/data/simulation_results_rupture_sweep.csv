@@ -1,0 +1,11 @@
+ion,theta,MI,delta_G,BFIP,RUPTURE
+hbs_cushion,0.092,1000.0,-6286.55,False,False
+hbs_cushion,0.093,1000.0,-6289.65,False,False
+hbs_cushion,0.544,1000.0,-7688.4,False,False
+hbs_cushion,0.635,1000.0,-7969.53,False,False
+hbs_cushion,0.74,1000.0,-8294.77,False,False
+hbs_cushion,0.898,1000.0,-8785.87,False,False
+Fe2+,0.27,1000.0,-5669.18,False,False
+Fe2+,0.975,1000.0,-7419.48,False,False
+Ca2+,0.012,1000.0,-3026.4,False,False
+Ca2+,0.566,1000.0,-4229.34,False,False

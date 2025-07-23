@@ -1,0 +1,16 @@
+amplitude: 1.0
+ion: Cu2+
+ligand_range:
+- 0.01
+- 10.0
+parameters:
+  K_d: 0.5
+  k_off: 0.05
+  k_on: 0.5
+  n_H: 1.5
+  "\u0394H": -7.0
+  "\u0394S": 0.012
+t_span:
+- 0
+- 500
+temperature: 310.15

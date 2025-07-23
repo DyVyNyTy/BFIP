@@ -1,0 +1,33 @@
+amplitude: 1.0
+ions:
+- ion: Na+
+  parameters:
+    K_d: 10.0
+    k_off: 0.1
+    k_on: 1.0
+    n_H: 1.0
+    "\u0394H": -5.0
+    "\u0394S": 0.01
+- ion: K+
+  parameters:
+    K_d: 8.0
+    k_off: 0.09
+    k_on: 0.9
+    n_H: 1.0
+    "\u0394H": -4.5
+    "\u0394S": 0.009
+- ion: Cu2+
+  parameters:
+    K_d: 0.5
+    k_off: 0.05
+    k_on: 0.5
+    n_H: 1.5
+    "\u0394H": -7.0
+    "\u0394S": 0.012
+ligand_range:
+- 0.01
+- 10.0
+t_span:
+- 0
+- 500
+temperature: 310.15

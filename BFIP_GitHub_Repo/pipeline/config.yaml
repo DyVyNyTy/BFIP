@@ -1,0 +1,73 @@
+T_range: [298.0, 310.0]           # Temperature in Kelvin
+t_span: [0.0, 120.0, 300]         # Start, end, number of time steps
+
+ions:
+  Fe2+:
+    ligand_range: [0.0, 10.0, 50]
+    n_H:
+      mean: 2.8
+      std: 0.3
+    K_d:
+      mean: 50.0
+      std: 10.0
+    k_on:
+      mean: 50.0
+      std: 10.0
+    k_off:
+      mean: 5.0
+      std: 1.0
+    Delta_H:
+      mean: -5000.0
+      std: 1000.0
+    Delta_S:
+      mean: 10.0
+      std: 5.0
+    amplitude: 1.2
+
+  Ca2+:
+    ligand_range: [0.0, 50.0, 50]      # ✅ adjusted from [0.0, 10.0, 50]
+    n_H:
+      mean: 2.1
+      std: 0.25
+    K_d:
+      mean: 25.0
+      std: 5.0
+    k_on:
+      mean: 25.0
+      std: 5.0
+    k_off:
+      mean: 2.5
+      std: 0.5
+    Delta_H:
+      mean: -4000.0
+      std: 800.0
+    Delta_S:
+      mean: 8.0
+      std: 6.0
+    amplitude: 1.0
+
+  H+:
+    ligand_range: [0.0, 10.0, 50]
+    n_H:
+      mean: 1.0
+      std: 0.2
+    K_d:
+      mean: 5.0
+      std: 1.0
+    k_on:
+      mean: 5.0
+      std: 1.0
+    k_off:
+      mean: 0.5
+      std: 0.1
+    Delta_H:
+      mean: -2000.0
+      std: 500.0
+    Delta_S:
+      mean: 5.0
+      std: 2.0
+    amplitude: 0.8
+
+sampling:
+  n_samples: 100
+  seed: 42

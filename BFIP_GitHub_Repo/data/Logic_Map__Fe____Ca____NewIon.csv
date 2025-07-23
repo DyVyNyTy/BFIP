@@ -1,0 +1,5 @@
+Logic Code,Count,Interpretation
+000,311,No BFIP activity
+010,42,Ca²⁺-only activation
+101,38,Fe²⁺ + NewIon synergy
+111,9,"Full cooperative BFIP (Fe²⁺, Ca²⁺, NewIon)"

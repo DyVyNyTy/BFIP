@@ -1,0 +1,9 @@
+Pattern,Binary Code,Biological Interpretation
+None,000,No BFIP activity — phase silent
+H⁺ only,100,Proton-driven logic: pH gating or charge relay
+Ca²⁺ only,010,Scaffold memory / Ca²⁺ binding logic
+Fe²⁺ only,001,Redox-encoded gate: Fe²⁺ electron logic
+H⁺ + Ca²⁺,110,Dual signal: pH + structure memory
+H⁺ + Fe²⁺,101,Acid-redox switch: dynamic electron flow control
+Ca²⁺ + Fe²⁺,011,Redox-structure pair: signal buffering or integrity check
+H⁺ + Ca²⁺ + Fe²⁺,111,Consensus phase: Bio-functional control node (high-order logic)

@@ -1,0 +1,16 @@
+amplitude: 1.0
+ion: Ca2+
+ligand_range:
+- 0.01
+- 10.0
+parameters:
+  K_d: 1.0
+  k_off: 0.12
+  k_on: 1.2
+  n_H: 2.0
+  "\u0394H": -8.0
+  "\u0394S": 0.015
+t_span:
+- 0
+- 500
+temperature: 310.15

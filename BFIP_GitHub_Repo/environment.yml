@@ -1,0 +1,16 @@
+# environment.yml
+name: ion_phase_lab
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - snakemake=7.*             # pin to any 7.x release
+  - numpy
+  - scipy
+  - matplotlib
+  - pyyaml
+  - pytest
+  - pandas

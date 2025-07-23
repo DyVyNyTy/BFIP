@@ -1,0 +1,133 @@
+,Filename,Full Path
+25,BFIP_Critical_Thresholds.md,/mnt/data/lab_docs/lab_docs/BFIP_Critical_Thresholds.md
+107,BFIP_Critical_Thresholds.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/BFIP_Critical_Thresholds.md
+26,BFIP_Equations_Summary.md,/mnt/data/lab_docs/lab_docs/BFIP_Equations_Summary.md
+108,BFIP_Equations_Summary.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/BFIP_Equations_Summary.md
+95,BFIP_Logic_Code_Map.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/BFIP_Logic_Code_Map.csv
+28,BFIP_Model_Theory.md,/mnt/data/lab_docs/lab_docs/BFIP_Model_Theory.md
+110,BFIP_Model_Theory.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/BFIP_Model_Theory.md
+96,BFIP_Phase_Logic_Table.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/BFIP_Phase_Logic_Table.csv
+97,BFIP_Phase_Transition_Matrix.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/BFIP_Phase_Transition_Matrix.csv
+52,BFIP_Sickle_Model.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/BFIP_Sickle_Model.py
+2,BFIP_Sickle_Model.py,/mnt/data/BFIP_Sickle_Model.py
+53,BFIP_Sickle_Model_v3_RuptureEngine.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/BFIP_Sickle_Model_v3_RuptureEngine.py
+7,BFIP_Sickle_Model_v3_RuptureEngine.py,/mnt/data/BFIP_Sickle_Model_v3_RuptureEngine.py
+54,BFIP_Sickle_Model_v4_PerturbationSweep.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/BFIP_Sickle_Model_v4_PerturbationSweep.py
+8,BFIP_Sickle_Model_v4_PerturbationSweep.py,/mnt/data/BFIP_Sickle_Model_v4_PerturbationSweep.py
+100,Ca2+_BFIP_H+_BFIP_dynamics.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Ca2+_BFIP_H+_BFIP_dynamics.csv
+39,Ca2+_BFIP_H+_BFIP_dynamics.csv,/mnt/data/data/data/Ca2+_BFIP_H+_BFIP_dynamics.csv
+101,Ca2+_nonBFIP_Fe2+_BFIP_dynamics.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Ca2+_nonBFIP_Fe2+_BFIP_dynamics.csv
+40,Ca2+_nonBFIP_Fe2+_BFIP_dynamics.csv,/mnt/data/data/data/Ca2+_nonBFIP_Fe2+_BFIP_dynamics.csv
+87,Ca2+_summary.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/Ca2+_summary.csv
+20,Ca2+_summary.csv,/mnt/data/analysis/analysis/Ca2+_summary.csv
+42,Fe2+_BFIP_H+_nonBFIP_dynamics.csv,/mnt/data/data/data/Fe2+_BFIP_H+_nonBFIP_dynamics.csv
+103,Fe2+_BFIP_H+_nonBFIP_dynamics.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Fe2+_BFIP_H+_nonBFIP_dynamics.csv
+104,Fe2+_H+_BFIP_BFIP_dynamics.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Fe2+_H+_BFIP_BFIP_dynamics.csv
+43,Fe2+_H+_BFIP_BFIP_dynamics.csv,/mnt/data/data/data/Fe2+_H+_BFIP_BFIP_dynamics.csv
+105,Fe2+_nonBFIP_H+_BFIP_dynamics.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Fe2+_nonBFIP_H+_BFIP_dynamics.csv
+44,Fe2+_nonBFIP_H+_BFIP_dynamics.csv,/mnt/data/data/data/Fe2+_nonBFIP_H+_BFIP_dynamics.csv
+88,Fe2+_summary.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/Fe2+_summary.csv
+21,Fe2+_summary.csv,/mnt/data/analysis/analysis/Fe2+_summary.csv
+22,H+_summary.csv,/mnt/data/analysis/analysis/H+_summary.csv
+89,H+_summary.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/H+_summary.csv
+106,Plot_Call_Summary_in_Perturbation_Maps.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/Plot_Call_Summary_in_Perturbation_Maps.csv
+12,Plot_Call_Summary_in_Perturbation_Maps.csv,/mnt/data/Plot_Call_Summary_in_Perturbation_Maps.csv
+73,README.lab.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/README.lab.md
+29,README.md,/mnt/data/lab_docs/lab_docs/README.md
+111,README.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/README.md
+93,SOURCES.txt,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip.egg-info/SOURCES.txt
+129,Scaffold_Modulation_Breakpoint_Sweep.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/results/Scaffold_Modulation_Breakpoint_Sweep.csv
+112,WhitePaper_Proposal_Draft.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/WhitePaper_Proposal_Draft.md
+30,WhitePaper_Proposal_Draft.md,/mnt/data/lab_docs/lab_docs/WhitePaper_Proposal_Draft.md
+18,__init__.py,/mnt/data/models/models/__init__.py
+91,__init__.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/__init__.py
+85,__init__.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/__init__.py
+24,__init__.py,/mnt/data/analysis/analysis/__init__.py
+118,__init__.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/__init__.py
+86,analysis.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/analysis.py
+19,analysis.py,/mnt/data/analysis/analysis/analysis.py
+31,analyze_results.py,/mnt/data/pipeline/pipeline/analyze_results.py
+119,analyze_results.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/analyze_results.py
+27,bfip_experiment_protocol.md,/mnt/data/lab_docs/lab_docs/bfip_experiment_protocol.md
+109,bfip_experiment_protocol.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/lab_docs/bfip_experiment_protocol.md
+45,bfip_flicker_boundary.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_flicker_boundary.py
+46,bfip_gate_pulse_test.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_gate_pulse_test.py
+47,bfip_logic.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_logic.py
+125,bfip_pH_sweep.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/results/bfip_pH_sweep.csv
+48,bfip_phase_atlas.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_phase_atlas.py
+49,bfip_phase_map_Ca2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_phase_map_Ca2+.html
+4,bfip_phase_map_Ca2+.html,/mnt/data/bfip_phase_map_Ca2+.html
+50,bfip_phase_map_Fe2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_phase_map_Fe2+.html
+5,bfip_phase_map_Fe2+.html,/mnt/data/bfip_phase_map_Fe2+.html
+51,bfip_phase_map_hbs_cushion.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_phase_map_hbs_cushion.html
+1,bfip_phase_map_hbs_cushion.html,/mnt/data/bfip_phase_map_hbs_cushion.html
+126,bfip_points.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/results/bfip_points.csv
+98,bfip_results_fast_export.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/bfip_results_fast_export.csv
+99,bfip_results_fe2.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/bfip_results_fe2.csv
+127,bfip_sweep.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/results/bfip_sweep.csv
+55,bfip_sweep.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip_sweep.csv
+120,config.yaml,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/config.yaml
+32,config.yaml,/mnt/data/pipeline/pipeline/config.yaml
+41,data_README.md,/mnt/data/data/data/data_README.md
+102,data_README.md,/mnt/data/ion_phase_lab (2)/ion_phase_lab/data/data_README.md
+0,deltaG_vs_theta_trace_Ca2+.html,/mnt/data/deltaG_vs_theta_trace_Ca2+.html
+56,deltaG_vs_theta_trace_Ca2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/deltaG_vs_theta_trace_Ca2+.html
+57,deltaG_vs_theta_trace_Fe2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/deltaG_vs_theta_trace_Fe2+.html
+3,deltaG_vs_theta_trace_Fe2+.html,/mnt/data/deltaG_vs_theta_trace_Fe2+.html
+58,deltaG_vs_theta_trace_hbs_cushion.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/deltaG_vs_theta_trace_hbs_cushion.html
+6,deltaG_vs_theta_trace_hbs_cushion.html,/mnt/data/deltaG_vs_theta_trace_hbs_cushion.html
+92,dependency_links.txt,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip.egg-info/dependency_links.txt
+121,dynamic_transitions.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/dynamic_transitions.py
+33,dynamic_transitions.py,/mnt/data/pipeline/pipeline/dynamic_transitions.py
+59,engine.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/engine.py
+60,environment.yml,/mnt/data/ion_phase_lab (2)/ion_phase_lab/environment.yml
+66,explore_bfip_T_lig_contour.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_T_lig_contour.py
+61,explore_bfip_ds_contour.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_ds_contour.py
+62,explore_bfip_dynamic_ds_contour.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_dynamic_ds_contour.py
+63,explore_bfip_dynamic_ds_contour_maps.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_dynamic_ds_contour_maps.py
+64,explore_bfip_dynamic_ds_contour_maps_thermo.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_dynamic_ds_contour_maps_thermo.py
+65,explore_bfip_pH_lig_contour.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/explore_bfip_pH_lig_contour.py
+37,hemoglobin.py,/mnt/data/simulation/simulation/hemoglobin.py
+130,hemoglobin.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/simulation/hemoglobin.py
+113,information.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/information.py
+13,information.py,/mnt/data/models/models/information.py
+114,kinetics.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/kinetics.py
+14,kinetics.py,/mnt/data/models/models/kinetics.py
+67,main.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/main.py
+68,oscillate_bfip_gate.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/oscillate_bfip_gate.py
+69,perturbation_sweep_map_Ca2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/perturbation_sweep_map_Ca2+.html
+9,perturbation_sweep_map_Ca2+.html,/mnt/data/perturbation_sweep_map_Ca2+.html
+10,perturbation_sweep_map_Fe2+.html,/mnt/data/perturbation_sweep_map_Fe2+.html
+70,perturbation_sweep_map_Fe2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/perturbation_sweep_map_Fe2+.html
+11,perturbation_sweep_map_hbs_cushion.html,/mnt/data/perturbation_sweep_map_hbs_cushion.html
+71,perturbation_sweep_map_hbs_cushion.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/perturbation_sweep_map_hbs_cushion.html
+23,plot_dynamic_theta.py,/mnt/data/analysis/analysis/plot_dynamic_theta.py
+90,plot_dynamic_theta.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/analysis/plot_dynamic_theta.py
+72,plot_theta_comparison.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/plot_theta_comparison.py
+74,run_sensitivity.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/run_sensitivity.py
+34,sample_params.py,/mnt/data/pipeline/pipeline/sample_params.py
+122,sample_params.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/sample_params.py
+15,sampling.py,/mnt/data/models/models/sampling.py
+115,sampling.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/sampling.py
+128,scaffold_breakpoint.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/results/scaffold_breakpoint.csv
+35,simulate_dynamic.py,/mnt/data/pipeline/pipeline/simulate_dynamic.py
+123,simulate_dynamic.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/simulate_dynamic.py
+38,simulate_dynamic.py,/mnt/data/simulation/simulation/simulate_dynamic.py
+131,simulate_dynamic.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/simulation/simulate_dynamic.py
+124,simulate_hemoglobin.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/pipeline/simulate_hemoglobin.py
+36,simulate_hemoglobin.py,/mnt/data/pipeline/pipeline/simulate_hemoglobin.py
+16,simulation.py,/mnt/data/models/models/simulation.py
+116,simulation.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/simulation.py
+75,sobol_Fe2.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/sobol_Fe2.csv
+76,sobol_Fe2_dG.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/sobol_Fe2_dG.csv
+77,sobol_Fe2_mi.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/sobol_Fe2_mi.csv
+78,sobol_Fe2_theta.csv,/mnt/data/ion_phase_lab (2)/ion_phase_lab/sobol_Fe2_theta.csv
+79,thermo_dynamic_model.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/thermo_dynamic_model.py
+117,thermodynamics.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/models/thermodynamics.py
+17,thermodynamics.py,/mnt/data/models/models/thermodynamics.py
+80,theta_MI_dynamics_Ca2+.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/theta_MI_dynamics_Ca2+.html
+81,theta_MI_dynamics_Ca2+_rupture.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/theta_MI_dynamics_Ca2+_rupture.html
+82,theta_MI_dynamics_hbs_cushion.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/theta_MI_dynamics_hbs_cushion.html
+83,theta_MI_dynamics_hbs_cushion_rupture.html,/mnt/data/ion_phase_lab (2)/ion_phase_lab/theta_MI_dynamics_hbs_cushion_rupture.html
+94,top_level.txt,/mnt/data/ion_phase_lab (2)/ion_phase_lab/bfip.egg-info/top_level.txt
+84,track_bfip_dynamics.py,/mnt/data/ion_phase_lab (2)/ion_phase_lab/track_bfip_dynamics.py

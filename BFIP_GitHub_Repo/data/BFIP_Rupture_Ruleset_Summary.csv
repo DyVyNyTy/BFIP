@@ -1,0 +1,5 @@
+Rule,Condition,Description
+R1,Δ(ΔG)/Δθ > 500,Steep energy curvature
+R2,High MI & low ΔG gradient,Stable but sensitive
+R3,θ > 0.90,Crowding near full saturation
+R4,ΔΔG > 150 over Δθ ~ 0.01,Energy instability zone

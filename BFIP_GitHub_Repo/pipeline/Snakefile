@@ -1,0 +1,55 @@
+workdir: "."
+
+configfile: "config.yaml"
+
+# collect all final CSVs + PNGs
+rule all:
+    input:
+        expand("analysis/{ion}_summary.csv", ion=config["ions"].keys()),
+        expand("analysis/bio_phase_diagram_{ion}.png", ion=config["ions"].keys()),
+        expand("dynamic/{ion}/theta_dynamic.npz", ion=config["ions"].keys())
+
+# sample static parameters
+rule sample_params:
+    input:
+        "config.yaml"
+    output:
+        "sampling/{ion}/params.npz"
+    log:
+        "logs/sample_params_{ion}.log"
+    script:
+        "scripts/sample_params.py"
+
+# run steady-state simulation
+rule simulate:
+    input:
+        params="sampling/{ion}/params.npz"
+    output:
+        "simulation/{ion}/results.npz"
+    log:
+        "logs/simulate_{ion}.log"
+    script:
+        "scripts/simulate_hemoglobin.py"
+
+# run time-course dynamics
+rule dynamic:
+    input:
+        params="sampling/{ion}/params.npz"
+    output:
+        "dynamic/{ion}/theta_dynamic.npz"
+    log:
+        "logs/dynamic_{ion}.log"
+    script:
+        "scripts/dynamic_transitions.py"
+
+# analyze both static and dynamic outputs
+rule analyze:
+    input:
+        data="simulation/{ion}/results.npz"
+    output:
+        csv="analysis/{ion}_summary.csv",
+        png="analysis/bio_phase_diagram_{ion}.png"
+    log:
+        "logs/analyze_{ion}.log"
+    script:
+        "scripts/analyze_results.py"

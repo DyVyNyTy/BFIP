@@ -1,0 +1,16 @@
+amplitude: 1.0
+ion: Na+
+ligand_range:
+- 0.01
+- 10.0
+parameters:
+  K_d: 10.0
+  k_off: 0.1
+  k_on: 1.0
+  n_H: 1.0
+  "\u0394H": -5.0
+  "\u0394S": 0.01
+t_span:
+- 0
+- 500
+temperature: 310.15
